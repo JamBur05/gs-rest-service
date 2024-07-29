@@ -1,3 +1,15 @@
+[cols="1,1", options="header"]
+|===
+| Task | Status
+
+| Built Web API (GET/PUT)
+| ✔️
+
+| Wrote JUnit Unit Tests
+| ✔️
+|===
+
+
 :spring_version: current
 :toc:
 :project_id: gs-rest-service
